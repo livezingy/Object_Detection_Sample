@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Object_Detection_Sample", "Object_Detection_Sample\Object_Detection_Sample.vcxproj", "{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup4", "Setup4\Setup4.isproj", "{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		CD_ROM|x64 = CD_ROM|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		DVD-5|Win32 = DVD-5|Win32
+		DVD-5|x64 = DVD-5|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		SingleImage|Win32 = SingleImage|Win32
+		SingleImage|x64 = SingleImage|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.CD_ROM|Win32.ActiveCfg = Debug|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.CD_ROM|Win32.Build.0 = Debug|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.CD_ROM|x64.ActiveCfg = Release|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.CD_ROM|x64.Build.0 = Release|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Debug|Win32.ActiveCfg = Debug|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Debug|Win32.Build.0 = Debug|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Debug|x64.ActiveCfg = Debug|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Debug|x64.Build.0 = Debug|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.DVD-5|Win32.Build.0 = Debug|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.DVD-5|x64.ActiveCfg = Debug|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.DVD-5|x64.Build.0 = Debug|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Release|Win32.ActiveCfg = Release|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Release|Win32.Build.0 = Release|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Release|x64.ActiveCfg = Release|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.Release|x64.Build.0 = Release|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.SingleImage|Win32.ActiveCfg = Debug|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.SingleImage|Win32.Build.0 = Debug|Win32
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.SingleImage|x64.ActiveCfg = Release|x64
+		{5021A6BC-2899-4CF2-B2A1-EF24CF248EF5}.SingleImage|x64.Build.0 = Release|x64
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.CD_ROM|Win32.Build.0 = CD_ROM
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.CD_ROM|x64.ActiveCfg = CD_ROM
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.CD_ROM|x64.Build.0 = CD_ROM
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Debug|Win32.ActiveCfg = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Debug|Win32.Build.0 = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Debug|x64.ActiveCfg = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Debug|x64.Build.0 = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.DVD-5|Win32.ActiveCfg = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.DVD-5|Win32.Build.0 = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.DVD-5|x64.ActiveCfg = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.DVD-5|x64.Build.0 = DVD-5
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Release|Win32.ActiveCfg = SingleImage
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Release|Win32.Build.0 = SingleImage
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Release|x64.ActiveCfg = SingleImage
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.Release|x64.Build.0 = SingleImage
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.SingleImage|Win32.ActiveCfg = SingleImage
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.SingleImage|Win32.Build.0 = SingleImage
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.SingleImage|x64.ActiveCfg = SingleImage
+		{F8A2B73A-38D0-4413-A116-E7FBBCF8230E}.SingleImage|x64.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
